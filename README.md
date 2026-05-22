@@ -1,4 +1,4 @@
-# Source Asia – Backend Assignment
+
 
 ## Running the server
 
@@ -6,7 +6,6 @@ Requires Go 1.21 or later.
 
 ```bash
 git clone <repo-url>
-cd source-asia-backend
 go run main.go
 # → starting server on :8080
 ```
